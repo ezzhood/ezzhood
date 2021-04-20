@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eziz-hudayberdiyev
+- 👀 I’m interested in node.js, express, nestjs, typescript
+- 🌱 I’m currently learning nestjs
+- 💞️ I’m looking to collaborate on node.js
+- 📫 How to reach me ...
