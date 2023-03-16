@@ -1,5 +1,3 @@
-- 👋 Hi, I’m one of the lazy programmers
-- 👀 I’m interested in Typescript and Rust programming language
-- 💞️ I’m looking to collaborate on open source projects
+- 👋 Hi, I’m software developer, learning new things.
+- 👀 I’m interested in Typescript (nodejs) and Rust programming language.
 - 📫 How to reach me? medium profile: https://medium.com/@eziz-hudayberdiyev, my email: ezizhudayberdiyev123456@gmail.com
-- 🤙 I'm fond of reading
